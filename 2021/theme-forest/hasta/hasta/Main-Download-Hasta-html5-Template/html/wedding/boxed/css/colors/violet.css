@@ -1,0 +1,56 @@
+.menu-main .navbar-nav li a.current {
+    color: #573398;
+}
+ul.nav.yellow-2 > li > a.active:hover {
+    color: #573398;
+}
+.navbar-default.yellow-2 .navbar-nav > li > a:focus, .navbar-default.yellow-2 .navbar-nav > li > a:hover {
+    color: #573398;
+}
+.ms-layer.text24 {
+    color: #573398;
+}
+.ms-layer.text25 {
+    color: #573398;
+}
+.section-yellow-2 {
+    background-color: #573398;
+}
+.divider-line.yellow-2 {
+    border-bottom-color: #573398;
+}
+.btn.btn-border.yellow-2 {
+    border-color: #573398;
+    color: #573398;
+}
+.btn.btn-border.yellow-2:hover {
+    background-color: #573398;
+    border-color: #573398;
+}
+.text-yellow-2 {
+    color: #573398;
+}
+.small-line {
+    background-color: #573398;
+}
+a.read-more.yellow-2 {
+    color: #573398;
+}
+.small-line.align-left {
+    background-color: #573398;
+}
+.smart-forms .btn-primary.yellow-2 {
+    background-color: #573398;
+}
+.scrollup.yellow-2 {
+    background-color: #573398;
+}
+
+
+/*images*/
+blockquote.style1 {
+    background-image: url(../../images/colors/violet/openquote1.png);
+}
+blockquote.style1 span {
+    background-image: url(../../images/colors/violet/closequote1.png);
+}

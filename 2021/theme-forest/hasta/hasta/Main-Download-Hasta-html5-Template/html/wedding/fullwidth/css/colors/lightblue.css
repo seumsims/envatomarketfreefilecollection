@@ -1,0 +1,56 @@
+.menu-main .navbar-nav li a.current {
+    color: #37c6f5;
+}
+ul.nav.yellow-2 > li > a.active:hover {
+    color: #37c6f5;
+}
+.navbar-default.yellow-2 .navbar-nav > li > a:focus, .navbar-default.yellow-2 .navbar-nav > li > a:hover {
+    color: #37c6f5;
+}
+.ms-layer.text24 {
+    color: #37c6f5;
+}
+.ms-layer.text25 {
+    color: #37c6f5;
+}
+.section-yellow-2 {
+    background-color: #37c6f5;
+}
+.divider-line.yellow-2 {
+    border-bottom-color: #37c6f5;
+}
+.btn.btn-border.yellow-2 {
+    border-color: #37c6f5;
+    color: #37c6f5;
+}
+.btn.btn-border.yellow-2:hover {
+    background-color: #37c6f5;
+    border-color: #37c6f5;
+}
+.text-yellow-2 {
+    color: #37c6f5;
+}
+.small-line {
+    background-color: #37c6f5;
+}
+a.read-more.yellow-2 {
+    color: #37c6f5;
+}
+.small-line.align-left {
+    background-color: #37c6f5;
+}
+.smart-forms .btn-primary.yellow-2 {
+    background-color: #37c6f5;
+}
+.scrollup.yellow-2 {
+    background-color: #37c6f5;
+}
+
+
+/*images*/
+blockquote.style1 {
+    background-image: url(../../images/colors/lightblue/openquote1.png);
+}
+blockquote.style1 span {
+    background-image: url(../../images/colors/lightblue/closequote1.png);
+}

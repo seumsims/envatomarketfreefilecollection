@@ -1,0 +1,101 @@
+ul.nav.yellow-green-2 > li > a.active {
+    color: #573398;
+}
+ul.nav.yellow-green-2 > li > a.active:hover {
+    color: #573398;
+}
+.navbar-default.yellow-green-2 .navbar-nav > li > a:focus, .navbar-default.yellow-green-2 .navbar-nav > li > a:hover {
+    color: #573398;
+}
+.ms-layer.sbut11 {
+    background-color: #573398;
+}
+.section-yellow-green-2 {
+    background-color: #573398;
+}
+.title-line-6 {
+    background-color: #573398;
+}
+.feature-box-49 .iconbox-xlarge {
+    background-color: #573398;
+}
+.feature-box-49 {
+    border-top: 1px solid #573398;
+}
+.feature-box-49:hover h4, .feature-box-49.active h4 {
+    color: #573398;
+}
+.btn.btn-border.light.yellow-green-2:hover {
+    background-color: #573398;
+    border-color: #573398;
+}
+.btn.btn-yellow-green-2 {
+    background-color: #573398;
+}
+.feature-box-50 .iconbox-xtiny {
+    background-color: #573398;
+}
+.feature-box-51 .image-holder .hover-box {
+    border: 1px solid #573398;
+}
+.feature-box53 .post-date-box {
+    background-color: #573398;
+}
+.slide-controls-color-1 .owl-theme .owl-controls .owl-page span {
+    background-color: #573398;
+}
+.usefull-links.yellow-green-2 li i {
+    color: #573398;
+}
+.newsletter .input_submit.yellow-green-2 {
+    background-color: #573398;
+}
+.scrollup.yellow-green-2 {
+    background-color: #573398;
+}
+.team-holder12 .image-holder .hover-box {
+    background-color: #573398;
+}
+.smart-forms .btn-primary.yellow-green-2 {
+    background-color: #573398;
+}
+
+
+
+/*text white*/
+
+.ms-layer.sbut11 {
+    color: #fff;
+}
+.section-yellow-green-2 h3, .section-yellow-green-2 p {
+   color: #fff;
+}
+
+.btn.btn-border.xdark {
+    border-color: #fff;
+    color: #fff;
+}
+.feature-box-49 .iconbox-xlarge {
+    color: #fff;
+}
+.btn.btn-yellow-green-2 {
+    color: #fff;
+}
+.feature-box-50 .iconbox-xtiny {
+    color: #fff;
+}
+.feature-box53 .post-date-box {
+    color: #fff;
+}
+.feature-box53 .post-date-box span {
+    color: #fff;
+}
+.newsletter .input_submit.yellow-green-2 {
+    color: #fff;
+}
+.team-holder12 .image-holder .hover-box p {
+    color: #fff;
+}
+.smart-forms .btn-primary.yellow-green-2 {
+    color: #fff;
+}

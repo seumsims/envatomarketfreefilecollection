@@ -1,0 +1,38 @@
+.topbar.pink .toplist li {
+    color: #3fc35f;
+}
+.topbar.pink .toplist li a {
+    color: #3fc35f;
+}
+.topbar.pink .toplist li a {
+    color: #3fc35f;
+}
+ul.nav.pink > li > a.active {
+    color: #3fc35f;
+}
+.navbar-default.pink .navbar-nav > li > a:focus, .navbar-default.pink .navbar-nav > li > a:hover {
+    color: #3fc35f;
+}
+.ms-layer.sbut11.pink {
+	background-color:#3fc35f;
+}
+.btn.btn-border-16 {
+    border: 1px solid #3fc35f;
+    color: #3fc35f;
+}
+.btn.btn-border-16:hover, .btn.btn-border-16.active {
+	border: 1px solid #3fc35f;
+	background-color:#3fc35f;
+}
+.btn.btn-pink {
+    background-color: #3fc35f;
+}
+.text-pink {
+    color: #3fc35f;
+}
+.scrollup.pink {
+    background-color: #3fc35f;
+}
+ul.nav.pink>li>a:hover.active {
+	color:#3fc35f;
+}

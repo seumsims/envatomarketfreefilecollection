@@ -1,0 +1,52 @@
+ul.nav.red-2 > li > a.active {
+    color: #ffd133;
+}
+ul.nav.red-2 > li > a.active:hover {
+    color: #ffd133;
+}
+.navbar-default.red-2 .navbar-nav > li > a:focus, .navbar-default.red-2 .navbar-nav > li > a:hover {
+    color: #ffd133;
+}
+.btn.btn-red {
+    background-color: #ffd133;
+}
+.ms-layer.offer-badge {
+    background-color: #ffd133;
+}
+.scrollup.red-4 {
+    background-color: #ffd133;
+}
+.shop-product-holder .image-holder .hoverbox {
+    background-color: #ffd133;
+}
+.text-red-4 {
+    color: #ffd133;
+}
+.btn.btn-red-4 {
+    background-color: #ffd133;
+}
+.email_submit.two {
+    background-color: #ffd133;
+    border: 1px solid #ffd133;
+}
+.category-links.red-4 li a:hover, .category-links.red-4 li a.active {
+    color: #ffd133;
+}
+.blog1-sidebar-posts.red-4 .post-info i {
+    color: #ffd133;
+}
+.shop-tags li a {
+    background-color: #ffd133;
+}
+.text-red-3 {
+    color: #ffd133;
+}
+.slide-controls-color-6 .owl-theme .owl-controls .owl-page span {
+    background-color: #ffd133;
+}
+.divider-line.red-4 {
+    border-bottom-color: #ffd133;
+}
+.smart-forms .btn-primary.red-4 {
+    background-color: #ffd133;
+}

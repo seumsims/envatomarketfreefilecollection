@@ -1,0 +1,83 @@
+.menu li a.current {
+    color: #8b501f;
+}
+.menu li a:hover {
+    color: #8b501f;
+}
+.ms-layer.sbut10:hover {
+    background-color: #8b501f;
+}
+.feature-box48:hover .icon.three, .feature-box48.active .icon.three {
+    background-color: #8b501f;
+    border: 1px solid #8b501f;
+}
+.feature-box48:hover .icon {
+   background-color: #8b501f;
+    border: 1px solid #8b501f;
+}
+.feature-box48:hover .icon.two {
+	background-color: #8b501f;
+    border: 1px solid #8b501f;
+}
+.feature-box48:hover .icon.four {
+	background-color: #8b501f;
+    border: 1px solid #8b501f;
+}
+.feature-box48:hover h5, .feature-box48.active h5 {
+    color: #8b501f;
+}
+.text-brown {
+    color: #8b501f;
+}
+.title-line-4.brown {
+    background-color: #8b501f;
+}
+.btn.btn-border.brown {
+    border-color: #8b501f;
+    color: #8b501f;
+}
+.btn.btn-border.brown:hover {
+    background-color: #8b501f;
+    border-color: #8b501f;
+}
+.btn.btn-border.white.brown:hover {
+    background-color: #8b501f;
+    border-color: #8b501f;
+}
+.btn.btn-brown:hover {
+    background-color: #8b501f;
+}
+.social-icons-3.brown li a:hover, .social-icons-3.brown li a.active {
+    background-color: #8b501f;
+}
+.scrollup.brown {
+    background-color: #8b501f;
+}
+
+/*images*/
+.feature-box48 .icon {
+	background: #fff url(../../images/colors/default/328.png) center center no-repeat;
+}
+.feature-box48 .icon.two {
+	background: #fff url(../../images/colors/default/330.png) center center no-repeat;
+}
+
+.feature-box48 .icon.three {
+	background: #fff url(../../images/colors/default/332.png) center center no-repeat;
+}
+.feature-box48 .icon.four {
+	background: #fff url(../../images/colors/default/334.png) center center no-repeat;
+}
+
+ul.nav.brown > li > a.active {
+    color: #8b501f;
+}
+ul.nav.brown > li > a.active:hover {
+    color: #8b501f;
+}
+.navbar-default.brown .navbar-nav > li > a:focus, .navbar-default.brown .navbar-nav > li > a:hover {
+    color: #8b501f;
+}
+.smart-forms .btn-primary.brown {
+    background-color: #8b501f;
+}

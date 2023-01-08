@@ -1,0 +1,62 @@
+ul.nav.red > li > a.active {
+    color: #37c6f5;
+}
+.navbar-default.red .navbar-nav > li > a:focus, .navbar-default.red .navbar-nav > li > a:hover {
+    color: #37c6f5;
+}
+ul.nav.red > li > a.active:hover {
+    color: #37c6f5;
+}
+.ms-layer.sbut6 {
+    background-color: #37c6f5;
+}
+.section-red {
+    background-color: #37c6f5;
+}
+.feature-box24 .inner .but {
+    color: #37c6f5;
+}
+.pricetable-holder4:hover, .pricetable-holder4.active {
+    border: 2px solid #37c6f5;
+}
+.pricetable-holder4:hover .inner-holder, .pricetable-holder4.active .inner-holder {
+    background-color: #37c6f5;
+}
+.btn.btn-red {
+    background-color: #37c6f5;
+}
+.feature-box25 {
+    background-color: #37c6f5;
+}
+.text-orange-2 {
+    color: #37c6f5;
+}
+.scrollup.red {
+    background-color: #37c6f5;
+}
+.text-red {
+    color: #37c6f5;
+}
+.feature-box28:hover {
+    background-color: #37c6f5;
+    border: 1px solid #37c6f5;
+}
+.smart-forms .btn-primary.red {
+    background-color: #37c6f5;
+}
+
+.bottom-shape5 {
+    background: url(../../images/colors/lightblue/bottom-shape1.png) center top no-repeat;
+}
+.top-shape2.red2 {
+    background: url(../../images/colors/lightblue/top-shape5.png) center top no-repeat;
+}
+.top-shape2.red {
+   background: url(../../images/colors/lightblue/top-shape4.png) center top no-repeat;
+}
+.bottom-shape1 {
+	background: url(../../images/colors/lightblue/bottom-shape1.png) center top no-repeat;
+}
+.top-shape1{
+	background: url(../../images/colors/lightblue/top-shape1.png) center top no-repeat;
+}

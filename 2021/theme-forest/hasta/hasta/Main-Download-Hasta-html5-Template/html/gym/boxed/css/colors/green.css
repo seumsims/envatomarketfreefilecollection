@@ -1,0 +1,62 @@
+ul.nav.red > li > a.active {
+    color: #3fc35f;
+}
+.navbar-default.red .navbar-nav > li > a:focus, .navbar-default.red .navbar-nav > li > a:hover {
+    color: #3fc35f;
+}
+ul.nav.red > li > a.active:hover {
+    color: #3fc35f;
+}
+.ms-layer.sbut6 {
+    background-color: #3fc35f;
+}
+.section-red {
+    background-color: #3fc35f;
+}
+.feature-box24 .inner .but {
+    color: #3fc35f;
+}
+.pricetable-holder4:hover, .pricetable-holder4.active {
+    border: 2px solid #3fc35f;
+}
+.pricetable-holder4:hover .inner-holder, .pricetable-holder4.active .inner-holder {
+    background-color: #3fc35f;
+}
+.btn.btn-red {
+    background-color: #3fc35f;
+}
+.feature-box25 {
+    background-color: #3fc35f;
+}
+.text-green-2 {
+    color: #3fc35f;
+}
+.scrollup.red {
+    background-color: #3fc35f;
+}
+.text-red {
+    color: #3fc35f;
+}
+.feature-box28:hover {
+    background-color: #3fc35f;
+    border: 1px solid #3fc35f;
+}
+.smart-forms .btn-primary.red {
+    background-color: #3fc35f;
+}
+
+.bottom-shape5 {
+    background: url(../../images/colors/green/bottom-shape1.png) center top no-repeat;
+}
+.top-shape2.red2 {
+    background: url(../../images/colors/green/top-shape5.png) center top no-repeat;
+}
+.top-shape2.red {
+   background: url(../../images/colors/green/top-shape4.png) center top no-repeat;
+}
+.bottom-shape1 {
+	background: url(../../images/colors/green/bottom-shape1.png) center top no-repeat;
+}
+.top-shape1{
+	background: url(../../images/colors/green/top-shape1.png) center top no-repeat;
+}

@@ -1,0 +1,41 @@
+.topbar.pink .toplist li {
+    color: #ffd133;
+}
+.topbar.pink .toplist li a {
+    color: #ffd133;
+}
+ul.nav.pink > li > a.active {
+    color: #ffd133;
+}
+ul.nav.pink > li > a.active:hover {
+    color: #ffd133;
+}
+.navbar-default.pink .navbar-nav > li > a:focus, .navbar-default.pink .navbar-nav > li > a:hover {
+    color: #ffd133;
+}
+.ms-layer.sbut11.pink {
+    background-color: #ffd133;
+}
+.btn.btn-border.pink {
+    border-color: #ffd133;
+    color: #ffd133;
+}
+.btn.btn-border.pink:hover {
+    background-color: #ffd133;
+    border-color: #ffd133;
+}
+.btn.btn-pink {
+    background-color: #ffd133;
+}
+.text-pink {
+    color: #ffd133;
+}
+.footer-holder .social-icons-3 li a:hover {
+    background-color: #ffd133;
+}
+.scrollup.pink {
+    background-color: #ffd133;
+}
+.smart-forms .btn-primary.pink {
+    background-color: #ffd133;
+}

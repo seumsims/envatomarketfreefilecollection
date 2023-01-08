@@ -1,0 +1,38 @@
+.topbar.pink .toplist li {
+    color: #f51f6f;
+}
+.topbar.pink .toplist li a {
+    color: #f51f6f;
+}
+.topbar.pink .toplist li a {
+    color: #f51f6f;
+}
+ul.nav.pink > li > a.active {
+    color: #f51f6f;
+}
+.navbar-default.pink .navbar-nav > li > a:focus, .navbar-default.pink .navbar-nav > li > a:hover {
+    color: #f51f6f;
+}
+.ms-layer.sbut11.pink {
+	background-color:#f51f6f;
+}
+.btn.btn-border-16 {
+    border: 1px solid #f51f6f;
+    color: #f51f6f;
+}
+.btn.btn-border-16:hover, .btn.btn-border-16.active {
+	border: 1px solid #f51f6f;
+	background-color:#f51f6f;
+}
+.btn.btn-pink {
+    background-color: #f51f6f;
+}
+.text-pink {
+    color: #f51f6f;
+}
+.scrollup.pink {
+    background-color: #f51f6f;
+}
+ul.nav.pink>li>a:hover.active {
+	color:#f51f6f;
+}

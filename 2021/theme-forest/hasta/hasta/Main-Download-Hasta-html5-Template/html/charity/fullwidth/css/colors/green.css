@@ -1,0 +1,70 @@
+ul.nav.cyan > li > a.active {
+    border-bottom: 4px solid #3fc35f;
+    color: #3fc35f;
+}
+ul.nav.cyan > li > a.active:hover {
+    border-bottom: 4px solid #3fc35f;
+    color: #3fc35f;
+}
+.navbar-default.cyan .navbar-nav > li > a:focus, .navbar-default.cyan .navbar-nav > li > a:hover {
+    color: #3fc35f;
+}
+.ms-layer.sbut17 {
+    background-color: #3fc35f;
+}
+.section-cyan {
+    background-color: #3fc35f;
+}
+.text-cyan {
+    color: #3fc35f;
+}
+.boxed-title {
+    background-color: #3fc35f;
+}
+.divider-line.cyan {
+    border-bottom-color: #3fc35f;
+}
+.btn.btn-border.light.cyan:hover {
+    background-color: #3fc35f;
+    border-color: #3fc35f;
+}
+.slide-controls-color-7 .owl-theme .owl-controls .owl-page span {
+    background-color: #3fc35f;
+}
+.btn.btn-cyan {
+    background-color: #3fc35f;
+}
+.scrollup.cyan {
+    background-color: #3fc35f;
+}
+.boxed-title-3 {
+    background-color: #3fc35f;
+}
+.feature-box-77 {
+    background-color: #3fc35f;
+}
+.feature-box-78 .post-date-box {
+    background-color: #3fc35f;
+}
+.boxed-title-4 {
+    background-color: #3fc35f;
+}
+.boxed-title-4 .post-date-box {
+    background-color: #3fc35f;
+}
+.feature-box-75 {
+    border: 1px solid #3fc35f;
+}
+.category-links.cyan li a:hover, .category-links.cyan li a.active {
+    color: #3fc35f;
+}
+.tags.two li a:hover, .tags.two li a.active {
+    background-color: #3fc35f;
+    border: 1px solid #3fc35f;
+}
+.team-holder14.two .image-holder .hover-box {
+    background-color: #3fc35f;
+}
+.smart-forms .btn-primary.cyan {
+    background-color: #3fc35f;
+}

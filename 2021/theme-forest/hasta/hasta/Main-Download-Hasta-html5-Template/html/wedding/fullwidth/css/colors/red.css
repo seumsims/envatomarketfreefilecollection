@@ -1,0 +1,56 @@
+.menu-main .navbar-nav li a.current {
+    color: #e93e21;
+}
+ul.nav.yellow-2 > li > a.active:hover {
+    color: #e93e21;
+}
+.navbar-default.yellow-2 .navbar-nav > li > a:focus, .navbar-default.yellow-2 .navbar-nav > li > a:hover {
+    color: #e93e21;
+}
+.ms-layer.text24 {
+    color: #e93e21;
+}
+.ms-layer.text25 {
+    color: #e93e21;
+}
+.section-yellow-2 {
+    background-color: #e93e21;
+}
+.divider-line.yellow-2 {
+    border-bottom-color: #e93e21;
+}
+.btn.btn-border.yellow-2 {
+    border-color: #e93e21;
+    color: #e93e21;
+}
+.btn.btn-border.yellow-2:hover {
+    background-color: #e93e21;
+    border-color: #e93e21;
+}
+.text-yellow-2 {
+    color: #e93e21;
+}
+.small-line {
+    background-color: #e93e21;
+}
+a.read-more.yellow-2 {
+    color: #e93e21;
+}
+.small-line.align-left {
+    background-color: #e93e21;
+}
+.smart-forms .btn-primary.yellow-2 {
+    background-color: #e93e21;
+}
+.scrollup.yellow-2 {
+    background-color: #e93e21;
+}
+
+
+/*images*/
+blockquote.style1 {
+    background-image: url(../../images/colors/red/openquote1.png);
+}
+blockquote.style1 span {
+    background-image: url(../../images/colors/red/closequote1.png);
+}

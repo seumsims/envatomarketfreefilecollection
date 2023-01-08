@@ -1,0 +1,70 @@
+ul.nav.cyan > li > a.active {
+    border-bottom: 4px solid #17c9e3;
+    color: #17c9e3;
+}
+ul.nav.cyan > li > a.active:hover {
+    border-bottom: 4px solid #17c9e3;
+    color: #17c9e3;
+}
+.navbar-default.cyan .navbar-nav > li > a:focus, .navbar-default.cyan .navbar-nav > li > a:hover {
+    color: #17c9e3;
+}
+.ms-layer.sbut17 {
+    background-color: #17c9e3;
+}
+.section-cyan {
+    background-color: #17c9e3;
+}
+.text-cyan {
+    color: #17c9e3;
+}
+.boxed-title {
+    background-color: #17c9e3;
+}
+.divider-line.cyan {
+    border-bottom-color: #17c9e3;
+}
+.btn.btn-border.light.cyan:hover {
+    background-color: #17c9e3;
+    border-color: #17c9e3;
+}
+.slide-controls-color-7 .owl-theme .owl-controls .owl-page span {
+    background-color: #17c9e3;
+}
+.btn.btn-cyan {
+    background-color: #17c9e3;
+}
+.scrollup.cyan {
+    background-color: #17c9e3;
+}
+.boxed-title-3 {
+    background-color: #17c9e3;
+}
+.feature-box-77 {
+    background-color: #17c9e3;
+}
+.feature-box-78 .post-date-box {
+    background-color: #17c9e3;
+}
+.boxed-title-4 {
+    background-color: #17c9e3;
+}
+.boxed-title-4 .post-date-box {
+    background-color: #17c9e3;
+}
+.feature-box-75 {
+    border: 1px solid #17c9e3;
+}
+.category-links.cyan li a:hover, .category-links.cyan li a.active {
+    color: #17c9e3;
+}
+.tags.two li a:hover, .tags.two li a.active {
+    background-color: #17c9e3;
+    border: 1px solid #17c9e3;
+}
+.team-holder14.two .image-holder .hover-box {
+    background-color: #17c9e3;
+}
+.smart-forms .btn-primary.cyan {
+    background-color: #17c9e3;
+}

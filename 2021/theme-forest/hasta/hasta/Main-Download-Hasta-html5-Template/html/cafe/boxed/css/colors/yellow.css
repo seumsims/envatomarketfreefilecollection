@@ -1,0 +1,84 @@
+.menu li a.current {
+    color: #ffd133;
+}
+.menu li a:hover {
+    color: #ffd133;
+}
+.ms-layer.sbut10:hover {
+    background-color: #ffd133;
+}
+.feature-box48:hover .icon.three, .feature-box48.active .icon.three {
+    background-color: #ffd133;
+    border: 1px solid #ffd133;
+}
+.feature-box48:hover .icon {
+   background-color: #ffd133;
+    border: 1px solid #ffd133;
+}
+.feature-box48:hover .icon.two {
+	background-color: #ffd133;
+    border: 1px solid #ffd133;
+}
+.feature-box48:hover .icon.four {
+	background-color: #ffd133;
+    border: 1px solid #ffd133;
+}
+.feature-box48:hover h5, .feature-box48.active h5 {
+    color: #ffd133;
+}
+.text-brown {
+    color: #ffd133;
+}
+.title-line-4.brown {
+    background-color: #ffd133;
+}
+.btn.btn-border.brown {
+    border-color: #ffd133;
+    color: #ffd133;
+}
+.btn.btn-border.brown:hover {
+    background-color: #ffd133;
+    border-color: #ffd133;
+}
+.btn.btn-border.white.brown:hover {
+    background-color: #ffd133;
+    border-color: #ffd133;
+}
+.btn.btn-brown:hover {
+    background-color: #ffd133;
+}
+.social-icons-3.brown li a:hover, .social-icons-3.brown li a.active {
+    background-color: #ffd133;
+}
+.scrollup.brown {
+    background-color: #ffd133;
+}
+
+/*images*/
+.feature-box48 .icon {
+	background: #fff url(../../images/colors/yellow/328.png) center center no-repeat;
+}
+.feature-box48 .icon.two {
+	background: #fff url(../../images/colors/yellow/330.png) center center no-repeat;
+}
+
+.feature-box48 .icon.three {
+	background: #fff url(../../images/colors/yellow/332.png) center center no-repeat;
+}
+.feature-box48 .icon.four {
+	background: #fff url(../../images/colors/yellow/334.png) center center no-repeat;
+}
+
+
+ul.nav.brown > li > a.active {
+    color: #ffd133;
+}
+ul.nav.brown > li > a.active:hover {
+    color: #ffd133;
+}
+.navbar-default.brown .navbar-nav > li > a:focus, .navbar-default.brown .navbar-nav > li > a:hover {
+    color: #ffd133;
+}
+.smart-forms .btn-primary.brown {
+    background-color: #ffd133;
+}

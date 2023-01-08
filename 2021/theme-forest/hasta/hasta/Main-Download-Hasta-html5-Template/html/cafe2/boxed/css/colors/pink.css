@@ -1,0 +1,70 @@
+.menu li a.current {
+    color: #ff2851;
+}
+.menu li a:hover {
+    color: #ff2851;
+}
+.ms-layer.sbut10:hover {
+    background-color: #ff2851;
+}
+.feature-box48:hover .icon.three, .feature-box48.active .icon.three {
+    background-color: #ff2851;
+    border: 1px solid #ff2851;
+}
+.feature-box48:hover .icon {
+   background-color: #ff2851;
+    border: 1px solid #ff2851;
+}
+.feature-box48:hover .icon.two {
+	background-color: #ff2851;
+    border: 1px solid #ff2851;
+}
+.feature-box48:hover .icon.four {
+	background-color: #ff2851;
+    border: 1px solid #ff2851;
+}
+.feature-box48:hover h5, .feature-box48.active h5 {
+    color: #ff2851;
+}
+.text-brown {
+    color: #ff2851;
+}
+.title-line-4.brown {
+    background-color: #ff2851;
+}
+.btn.btn-border.brown {
+    border-color: #ff2851;
+    color: #ff2851;
+}
+.btn.btn-border.brown:hover {
+    background-color: #ff2851;
+    border-color: #ff2851;
+}
+.btn.btn-border.white.brown:hover {
+    background-color: #ff2851;
+    border-color: #ff2851;
+}
+.btn.btn-brown:hover {
+    background-color: #ff2851;
+}
+.social-icons-3.brown li a:hover, .social-icons-3.brown li a.active {
+    background-color: #ff2851;
+}
+.scrollup.brown {
+    background-color: #ff2851;
+}
+
+/*images*/
+.feature-box48 .icon {
+	background: #fff url(../../images/colors/pink/328.png) center center no-repeat;
+}
+.feature-box48 .icon.two {
+	background: #fff url(../../images/colors/pink/330.png) center center no-repeat;
+}
+
+.feature-box48 .icon.three {
+	background: #fff url(../../images/colors/pink/332.png) center center no-repeat;
+}
+.feature-box48 .icon.four {
+	background: #fff url(../../images/colors/pink/334.png) center center no-repeat;
+}

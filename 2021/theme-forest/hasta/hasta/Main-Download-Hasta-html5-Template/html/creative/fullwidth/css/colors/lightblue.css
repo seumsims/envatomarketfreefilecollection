@@ -1,0 +1,53 @@
+#header11 .navbar-nav li a.current {
+    color: #37c6f5;
+}
+.navbar-default.orange-4 .navbar-nav > li > a:focus, .navbar-default.orange-4 .navbar-nav > li > a:hover {
+    color: #37c6f5;
+}
+.text-orange-4 {
+    color: #37c6f5;
+}
+.title-line-4.orange-4 {
+    background-color: #37c6f5;
+}
+.scrollup.orange-4 {
+    background-color: #37c6f5;
+}
+.btn.btn-border.orange-4 {
+    border-color: #37c6f5;
+    color: #37c6f5;
+}
+.btn.btn-border.orange-4:hover {
+    background-color: #37c6f5;
+    border-color: #37c6f5;
+}
+.progressbar-style4 .progress-bar {
+    background-color: #37c6f5;
+}
+.feature-box-90:hover, .feature-box-90.active {
+    background-color: #37c6f5;
+}
+.section-orange-4 {
+    background-color: #37c6f5;
+}
+.feature-box-91 .post-date-box {
+    color: #37c6f5;
+}
+.feature-box-91 .post-date-box span {
+    color: #37c6f5;
+}
+.divider-line.orange-4 {
+    border-bottom-color: #37c6f5;
+}
+.slide-controls-color-11 .owl-theme .owl-controls .owl-page span {
+    background-color: #37c6f5;
+}
+.smart-forms .btn-primary.orange-4 {
+    background-color: #37c6f5;
+}
+
+
+/*rgba color*/
+.section-overlay.orange-4 {
+    background-color: rgba(55, 198, 245, 0.9);
+}

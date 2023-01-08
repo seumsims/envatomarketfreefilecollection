@@ -1,0 +1,84 @@
+ul.nav.yellow > li > a.active {
+    border-bottom: 2px solid #ff871c;
+    color: #ff871c;
+}
+.navbar-default.yellow .navbar-nav > li > a:focus, .navbar-default.yellow .navbar-nav > li > a:hover {
+    color: #ff871c;
+}
+ul.nav.yellow > li > a.active:hover {
+    color: #ff871c;
+}
+.ms-layer.sbut6.yellow {
+    background-color: #ff871c;
+}
+.section-yellow {
+    background-color: #ff871c;
+}
+.divider-line.yellow {
+    border-bottom-color: #ff871c;
+}
+.btn.btn-yellow {
+    background-color: #ff871c;
+}
+.title-line-8.yellow {
+    background-color: #ff871c;
+}
+.cbp-l-filters-button.three .cbp-filter-item.cbp-filter-item-active {
+    color: #ff871c;
+}
+.cbp-l-filters-button.two .cbp-filter-item.cbp-filter-item-active {
+    border-color:#ff871c;
+}
+.cbp-l-filters-button.two .cbp-filter-item:hover {
+    color: #ff871c;
+}
+.cbp-l-filters-button.two .cbp-filter-counter {
+    background-color: #ff871c;
+}
+
+.cbp-l-filters-button.two .cbp-filter-counter::before {
+    border-top: 4px solid #ff871c;
+}
+.tabs10 li.active a {
+    background-color: #ff871c;
+    border-right: 1px solid #ff871c;
+}
+.tabs10 li a:hover {
+    background-color: #ff871c;
+}
+.feature-box29 .post-date-box {
+    background-color: #ff871c;
+}
+.smk_accordion .accordion_in.yellow.acc_active > .acc_head {
+    background-color: #ff871c;
+}
+.text-yellow {
+    color: #ff871c;
+}
+a.read-more.yellow {
+    color: #ff871c;
+}
+.blog-holder6 .image-holder .post-date-box {
+    background-color: #ff871c;
+}
+
+.scrollup.yellow {
+    background-color: #ff871c;
+}
+.team-holder5 .image-holder .hover-box {
+    background-color: #ff871c;
+}
+.side-nav-list li a:hover, .side-nav-list li a.active {
+    background-color: #ff871c;
+}
+.iconlist.yellow li i {
+    color: #ff871c;
+}
+.smart-forms .btn-primary.yellow {
+    background-color: #ff871c;
+}
+
+/*rgba color*/
+.section-overlay.yellow {
+    background-color: rgba(255, 135, 28, 0.9);
+}

@@ -1,0 +1,62 @@
+ul.nav.red > li > a.active {
+    color: #adb218;
+}
+.navbar-default.red .navbar-nav > li > a:focus, .navbar-default.red .navbar-nav > li > a:hover {
+    color: #adb218;
+}
+ul.nav.red > li > a.active:hover {
+    color: #adb218;
+}
+.ms-layer.sbut6 {
+    background-color: #adb218;
+}
+.section-red {
+    background-color: #adb218;
+}
+.feature-box24 .inner .but {
+    color: #adb218;
+}
+.pricetable-holder4:hover, .pricetable-holder4.active {
+    border: 2px solid #adb218;
+}
+.pricetable-holder4:hover .inner-holder, .pricetable-holder4.active .inner-holder {
+    background-color: #adb218;
+}
+.btn.btn-red {
+    background-color: #adb218;
+}
+.feature-box25 {
+    background-color: #adb218;
+}
+.text-mossgreen-2 {
+    color: #adb218;
+}
+.scrollup.red {
+    background-color: #adb218;
+}
+.text-red {
+    color: #adb218;
+}
+.feature-box28:hover {
+    background-color: #adb218;
+    border: 1px solid #adb218;
+}
+.smart-forms .btn-primary.red {
+    background-color: #adb218;
+}
+
+.bottom-shape5 {
+    background: url(../../images/colors/mossgreen/bottom-shape1.png) center top no-repeat;
+}
+.top-shape2.red2 {
+    background: url(../../images/colors/mossgreen/top-shape5.png) center top no-repeat;
+}
+.top-shape2.red {
+   background: url(../../images/colors/mossgreen/top-shape4.png) center top no-repeat;
+}
+.bottom-shape1 {
+	background: url(../../images/colors/mossgreen/bottom-shape1.png) center top no-repeat;
+}
+.top-shape1{
+	background: url(../../images/colors/mossgreen/top-shape1.png) center top no-repeat;
+}

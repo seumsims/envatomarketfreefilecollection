@@ -1,0 +1,34 @@
+ul.nav.red > li > a.active {
+    color: #e93e21;
+}
+ul.nav.red > li > a.active:hover {
+    color: #e93e21;
+}
+.navbar-default.red .navbar-nav > li > a:focus, .navbar-default.red .navbar-nav > li > a:hover {
+    color: #e93e21;
+}
+.text-red {
+    color: #e93e21;
+}
+.footer-holder .social-icons-3.red li a:hover {
+    background-color: #e93e21;
+}
+.cbp-l-filters-button.red .cbp-filter-item.cbp-filter-item-active {
+    color: #e93e21;
+}
+.cbp-l-filters-button.red .cbp-filter-item.cbp-filter-item-active {
+    border-color:#e93e21;
+}
+.cbp-l-filters-button.red .cbp-filter-item:hover {
+    color: #e93e21;
+}
+.cbp-l-filters-button.red .cbp-filter-counter {
+    background-color: #e93e21;
+}
+
+.cbp-l-filters-button.red .cbp-filter-counter::before {
+    border-top: 4px solid #e93e21;
+}
+.smart-forms .btn-primary.red-5 {
+    background-color: #e93e21;
+}

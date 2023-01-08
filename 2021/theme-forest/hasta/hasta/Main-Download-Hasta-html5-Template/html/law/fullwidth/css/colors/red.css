@@ -1,0 +1,95 @@
+ul.nav.stone > li > a.active {
+    color: #e93e21;
+}
+ul.nav.stone > li > a.active:hover {
+    color: #e93e21;
+}
+.navbar-default.stone .navbar-nav > li > a:focus, .navbar-default.stone .navbar-nav > li > a:hover {
+    color: #e93e21;
+}
+.ms-layer.sbut14 {
+    background-color: #e93e21;
+}
+.feature-box-67 .iconbox-xtiny {
+    border: 1px solid #e93e21;
+    color: #e93e21;
+}
+.title-line-4.stone {
+    background-color: #e93e21;
+}
+.btn.btn-border.stone {
+    border-color: #e93e21;
+    color: #e93e21;
+}
+.btn.btn-border.stone:hover {
+    background-color: #e93e21;
+    border-color: #e93e21;
+}
+a.read-more.stone {
+    color: #e93e21;
+}
+.slide-controls-color-5 .owl-theme .owl-controls .owl-page span {
+    background-color: #e93e21;
+}
+.parallax-section49 .title-2 {
+    color: #e93e21;
+}
+.text-stone {
+    color: #e93e21;
+}
+
+.team-holder14 .image-holder .hover-box {
+    background-color: #e93e21;
+}
+.section-light-stone {
+    background-color: #f6f6f6;
+}
+
+.tabs12 li a:hover {
+    background-color: #e93e21;
+}
+.tabs12 li.active a {
+    background-color: #e93e21;
+    border-right: 1px solid #e93e21;
+}
+.feature-box68 .image-holder .post-date-box.stone {
+    background-color: #e93e21;
+}
+.smart-forms .btn-primary.stone {
+    background-color: #e93e21;
+}
+.scrollup.stone {
+    background-color: #e93e21;
+}
+.cbp-l-filters-button.style-5 .cbp-filter-item.cbp-filter-item-active {
+    background-color: #e93e21;
+    border-color: #e93e21;
+}
+.cbp-l-filters-button.style-5 .cbp-filter-item {
+    border: 1px solid #e93e21;
+    color: #e93e21;
+}
+.cbp-l-filters-button.style-5 .cbp-filter-counter::before {
+    border-top: 4px solid #e93e21;
+}
+.cbp-l-filters-button.style-5 .cbp-filter-counter {
+    background-color: #e93e21;
+}
+.iconlist.stone li a {
+    color: #e93e21;
+}
+.iconlist.stone li i {
+    color: #e93e21;
+}
+.smart-forms .btn-primary.stone-2 {
+    background-color: #e93e21;
+}
+.usefull-links.stone li i {
+    color: #e93e21;
+}
+
+
+/*rgba*/
+.section-overlay.stone {
+    background-color: rgba(233, 62, 33, 0.8);
+}

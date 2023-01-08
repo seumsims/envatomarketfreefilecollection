@@ -1,0 +1,53 @@
+#header11 .navbar-nav li a.current {
+    color: #c762cb;
+}
+.navbar-default.orange-4 .navbar-nav > li > a:focus, .navbar-default.orange-4 .navbar-nav > li > a:hover {
+    color: #c762cb;
+}
+.text-orange-4 {
+    color: #c762cb;
+}
+.title-line-4.orange-4 {
+    background-color: #c762cb;
+}
+.scrollup.orange-4 {
+    background-color: #c762cb;
+}
+.btn.btn-border.orange-4 {
+    border-color: #c762cb;
+    color: #c762cb;
+}
+.btn.btn-border.orange-4:hover {
+    background-color: #c762cb;
+    border-color: #c762cb;
+}
+.progressbar-style4 .progress-bar {
+    background-color: #c762cb;
+}
+.feature-box-90:hover, .feature-box-90.active {
+    background-color: #c762cb;
+}
+.section-orange-4 {
+    background-color: #c762cb;
+}
+.feature-box-91 .post-date-box {
+    color: #c762cb;
+}
+.feature-box-91 .post-date-box span {
+    color: #c762cb;
+}
+.divider-line.orange-4 {
+    border-bottom-color: #c762cb;
+}
+.slide-controls-color-11 .owl-theme .owl-controls .owl-page span {
+    background-color: #c762cb;
+}
+.smart-forms .btn-primary.orange-4 {
+    background-color: #c762cb;
+}
+
+
+/*rgba color*/
+.section-overlay.orange-4 {
+    background-color: rgba(199, 98, 203, 0.9);
+}

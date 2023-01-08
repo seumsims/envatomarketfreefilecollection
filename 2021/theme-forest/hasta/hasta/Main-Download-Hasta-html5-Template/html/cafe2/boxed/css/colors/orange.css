@@ -1,0 +1,70 @@
+.menu li a.current {
+    color: #ff871c;
+}
+.menu li a:hover {
+    color: #ff871c;
+}
+.ms-layer.sbut10:hover {
+    background-color: #ff871c;
+}
+.feature-box48:hover .icon.three, .feature-box48.active .icon.three {
+    background-color: #ff871c;
+    border: 1px solid #ff871c;
+}
+.feature-box48:hover .icon {
+   background-color: #ff871c;
+    border: 1px solid #ff871c;
+}
+.feature-box48:hover .icon.two {
+	background-color: #ff871c;
+    border: 1px solid #ff871c;
+}
+.feature-box48:hover .icon.four {
+	background-color: #ff871c;
+    border: 1px solid #ff871c;
+}
+.feature-box48:hover h5, .feature-box48.active h5 {
+    color: #ff871c;
+}
+.text-brown {
+    color: #ff871c;
+}
+.title-line-4.brown {
+    background-color: #ff871c;
+}
+.btn.btn-border.brown {
+    border-color: #ff871c;
+    color: #ff871c;
+}
+.btn.btn-border.brown:hover {
+    background-color: #ff871c;
+    border-color: #ff871c;
+}
+.btn.btn-border.white.brown:hover {
+    background-color: #ff871c;
+    border-color: #ff871c;
+}
+.btn.btn-brown:hover {
+    background-color: #ff871c;
+}
+.social-icons-3.brown li a:hover, .social-icons-3.brown li a.active {
+    background-color: #ff871c;
+}
+.scrollup.brown {
+    background-color: #ff871c;
+}
+
+/*images*/
+.feature-box48 .icon {
+	background: #fff url(../../images/colors/orange/328.png) center center no-repeat;
+}
+.feature-box48 .icon.two {
+	background: #fff url(../../images/colors/orange/330.png) center center no-repeat;
+}
+
+.feature-box48 .icon.three {
+	background: #fff url(../../images/colors/orange/332.png) center center no-repeat;
+}
+.feature-box48 .icon.four {
+	background: #fff url(../../images/colors/orange/334.png) center center no-repeat;
+}

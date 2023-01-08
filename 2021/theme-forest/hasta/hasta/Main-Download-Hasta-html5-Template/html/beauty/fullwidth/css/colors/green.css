@@ -1,0 +1,50 @@
+.topbar.pink-2 {
+    background-color: #3fc35f;
+}
+ul.nav.pink > li > a.active {
+    color: #3fc35f;
+}
+ul.nav.pink > li > a.active:hover {
+    color: #3fc35f;
+}
+.navbar-default.pink .navbar-nav > li > a:focus, .navbar-default.pink .navbar-nav > li > a:hover {
+    color: #3fc35f;
+}
+.ms-layer.sbut11.pink {
+    background-color: #3fc35f;
+}
+.title-line-4.pink {
+    background-color: #3fc35f;
+}
+.btn.btn-border.pink {
+    border-color: #3fc35f;
+    color: #3fc35f;
+}
+.btn.btn-pink {
+    background-color: #3fc35f;
+}
+.btn.btn-border.pink:hover {
+    background-color: #3fc35f;
+    border-color: #3fc35f;
+}
+.iconlist.pink li i {
+    color: #3fc35f;
+}
+.text-pink {
+    color: #3fc35f;
+}
+.section-pink {
+    background-color: #3fc35f;
+}
+.usefull-links.yellow li i {
+    color: #3fc35f;
+}
+.scrollup.pink {
+    background-color: #3fc35f;
+}
+.team-holder12.three .image-holder .hover-box {
+    background-color: #3fc35f;
+}
+.smart-forms .btn-primary.pink {
+    background-color: #3fc35f;
+}

@@ -1,0 +1,38 @@
+#header .navbar-nav li a.current {
+    border-bottom: 2px solid #a5d549;
+    color: #a5d549;
+}
+.navbar-default.yellow-4 .navbar-nav > li > a:focus, .navbar-default.yellow-4 .navbar-nav > li > a:hover {
+    color: #a5d549;
+}
+.ms-layer.sbut20 {
+    background-color: #a5d549;
+}
+.section-yellow-4 {
+    background-color: #a5d549;
+}
+.personal-info li {
+    color: #a5d549;
+}
+.text-yellow-4 {
+    color: #a5d549;
+}
+.slide-controls-color-9 .owl-theme .owl-controls .owl-page span {
+    background-color: #a5d549;
+}
+.progressbar-style3 .progress-bar {
+    background-color: #a5d549;
+}
+.scrollup.yellow-4 {
+    background-color: #a5d549;
+}
+.feature-box-85:hover, .feature-box-85.active {
+    background-color: #a5d549;
+    border: 1px solid #a5d549;
+}
+.feature-box-85:hover .arrow-down, .feature-box-85.active .arrow-down {
+    border-top: 20px solid #a5d549;
+}
+.smart-forms .btn-primary.yellow-4 {
+    background-color: #a5d549;
+}

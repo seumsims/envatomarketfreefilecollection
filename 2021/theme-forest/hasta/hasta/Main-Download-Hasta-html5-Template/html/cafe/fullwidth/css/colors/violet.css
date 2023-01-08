@@ -1,0 +1,84 @@
+.menu li a.current {
+    color: #573398;
+}
+.menu li a:hover {
+    color: #573398;
+}
+.ms-layer.sbut10:hover {
+    background-color: #573398;
+}
+.feature-box48:hover .icon.three, .feature-box48.active .icon.three {
+    background-color: #573398;
+    border: 1px solid #573398;
+}
+.feature-box48:hover .icon {
+   background-color: #573398;
+    border: 1px solid #573398;
+}
+.feature-box48:hover .icon.two {
+	background-color: #573398;
+    border: 1px solid #573398;
+}
+.feature-box48:hover .icon.four {
+	background-color: #573398;
+    border: 1px solid #573398;
+}
+.feature-box48:hover h5, .feature-box48.active h5 {
+    color: #573398;
+}
+.text-brown {
+    color: #573398;
+}
+.title-line-4.brown {
+    background-color: #573398;
+}
+.btn.btn-border.brown {
+    border-color: #573398;
+    color: #573398;
+}
+.btn.btn-border.brown:hover {
+    background-color: #573398;
+    border-color: #573398;
+}
+.btn.btn-border.white.brown:hover {
+    background-color: #573398;
+    border-color: #573398;
+}
+.btn.btn-brown:hover {
+    background-color: #573398;
+}
+.social-icons-3.brown li a:hover, .social-icons-3.brown li a.active {
+    background-color: #573398;
+}
+.scrollup.brown {
+    background-color: #573398;
+}
+
+/*images*/
+.feature-box48 .icon {
+	background: #fff url(../../images/colors/violet/328.png) center center no-repeat;
+}
+.feature-box48 .icon.two {
+	background: #fff url(../../images/colors/violet/330.png) center center no-repeat;
+}
+
+.feature-box48 .icon.three {
+	background: #fff url(../../images/colors/violet/332.png) center center no-repeat;
+}
+.feature-box48 .icon.four {
+	background: #fff url(../../images/colors/violet/334.png) center center no-repeat;
+}
+
+
+ul.nav.brown > li > a.active {
+    color: #573398;
+}
+ul.nav.brown > li > a.active:hover {
+    color: #573398;
+}
+.navbar-default.brown .navbar-nav > li > a:focus, .navbar-default.brown .navbar-nav > li > a:hover {
+    color: #573398;
+}
+.smart-forms .btn-primary.brown {
+    background-color: #573398;
+}

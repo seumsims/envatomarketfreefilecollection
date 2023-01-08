@@ -1,0 +1,33 @@
+ul.nav.brown-2 > li > a.active {
+    color: #3fc35f;
+}
+ul.nav.brown-2 > li > a.active:hover {
+    color: #3fc35f;
+}
+.navbar-default.brown-2 .navbar-nav > li > a:focus, .navbar-default.brown-2 .navbar-nav > li > a:hover {
+    color: #3fc35f;
+}
+.text-brown-2 {
+    color: #3fc35f;
+}
+.btn.btn-brown-2 {
+    background-color: #3fc35f;
+}
+.usefull-links.stone li i {
+    color: #3fc35f;
+}
+a.read-more.brown-2 {
+    color: #3fc35f;
+}
+.scrollup.brown-2 {
+    background-color: #3fc35f;
+}
+.text-stone {
+    color: #3fc35f;
+}
+.slide-controls-color-5 .owl-theme .owl-controls .owl-page span {
+    background-color: #3fc35f;
+}
+.smart-forms .btn-primary.brown-2 {
+    background-color: #3fc35f;
+}

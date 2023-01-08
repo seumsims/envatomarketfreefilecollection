@@ -1,0 +1,38 @@
+#header .navbar-nav li a.current {
+    border-bottom: 2px solid #37c6f5;
+    color: #37c6f5;
+}
+.navbar-default.yellow-4 .navbar-nav > li > a:focus, .navbar-default.yellow-4 .navbar-nav > li > a:hover {
+    color: #37c6f5;
+}
+.ms-layer.sbut20 {
+    background-color: #37c6f5;
+}
+.section-yellow-4 {
+    background-color: #37c6f5;
+}
+.personal-info li {
+    color: #37c6f5;
+}
+.text-yellow-4 {
+    color: #37c6f5;
+}
+.slide-controls-color-9 .owl-theme .owl-controls .owl-page span {
+    background-color: #37c6f5;
+}
+.progressbar-style3 .progress-bar {
+    background-color: #37c6f5;
+}
+.scrollup.yellow-4 {
+    background-color: #37c6f5;
+}
+.feature-box-85:hover, .feature-box-85.active {
+    background-color: #37c6f5;
+    border: 1px solid #37c6f5;
+}
+.feature-box-85:hover .arrow-down, .feature-box-85.active .arrow-down {
+    border-top: 20px solid #37c6f5;
+}
+.smart-forms .btn-primary.yellow-4 {
+    background-color: #37c6f5;
+}

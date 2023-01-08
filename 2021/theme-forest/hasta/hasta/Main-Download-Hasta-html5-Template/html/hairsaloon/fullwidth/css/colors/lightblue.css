@@ -1,0 +1,41 @@
+.topbar.pink .toplist li {
+    color: #37c6f5;
+}
+.topbar.pink .toplist li a {
+    color: #37c6f5;
+}
+ul.nav.pink > li > a.active {
+    color: #37c6f5;
+}
+ul.nav.pink > li > a.active:hover {
+    color: #37c6f5;
+}
+.navbar-default.pink .navbar-nav > li > a:focus, .navbar-default.pink .navbar-nav > li > a:hover {
+    color: #37c6f5;
+}
+.ms-layer.sbut11.pink {
+    background-color: #37c6f5;
+}
+.btn.btn-border.pink {
+    border-color: #37c6f5;
+    color: #37c6f5;
+}
+.btn.btn-border.pink:hover {
+    background-color: #37c6f5;
+    border-color: #37c6f5;
+}
+.btn.btn-pink {
+    background-color: #37c6f5;
+}
+.text-pink {
+    color: #37c6f5;
+}
+.footer-holder .social-icons-3 li a:hover {
+    background-color: #37c6f5;
+}
+.scrollup.pink {
+    background-color: #37c6f5;
+}
+.smart-forms .btn-primary.pink {
+    background-color: #37c6f5;
+}

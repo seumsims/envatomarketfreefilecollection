@@ -1,0 +1,38 @@
+#header .navbar-nav li a.current {
+    border-bottom: 2px solid #3fc35f;
+    color: #3fc35f;
+}
+.navbar-default.yellow-4 .navbar-nav > li > a:focus, .navbar-default.yellow-4 .navbar-nav > li > a:hover {
+    color: #3fc35f;
+}
+.ms-layer.sbut20 {
+    background-color: #3fc35f;
+}
+.section-yellow-4 {
+    background-color: #3fc35f;
+}
+.personal-info li {
+    color: #3fc35f;
+}
+.text-yellow-4 {
+    color: #3fc35f;
+}
+.slide-controls-color-9 .owl-theme .owl-controls .owl-page span {
+    background-color: #3fc35f;
+}
+.progressbar-style3 .progress-bar {
+    background-color: #3fc35f;
+}
+.scrollup.yellow-4 {
+    background-color: #3fc35f;
+}
+.feature-box-85:hover, .feature-box-85.active {
+    background-color: #3fc35f;
+    border: 1px solid #3fc35f;
+}
+.feature-box-85:hover .arrow-down, .feature-box-85.active .arrow-down {
+    border-top: 20px solid #3fc35f;
+}
+.smart-forms .btn-primary.yellow-4 {
+    background-color: #3fc35f;
+}
